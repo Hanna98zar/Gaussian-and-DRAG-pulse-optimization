@@ -4,8 +4,8 @@ This code simulates a quantum system, specifically a transmon qubit under the in
 
 This approach draws on established quantum control theory, particularly techniques for correcting errors in superconducting qubits, as described in references such as
 
-1. https://arxiv.org/pdf/0901.0534* for Gaussian pulses
+1. https://arxiv.org/pdf/0901.0534 for Gaussian pulses
 2. 
-3. https://arxiv.org/pdf/1005.1279* for DRAG pulses
+3. https://arxiv.org/pdf/1005.1279 for DRAG pulses
 4. 
 5. https://arxiv.org/pdf/1904.06560 on the transmon qubit Hamiltonian.
